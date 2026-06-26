@@ -10,6 +10,7 @@ The screen displays:
 - simple animated landscape that changes based on weather conditions (sun moves across the sky, 1–10 clouds slowly drift across the scene)
 
   ![Front view](images/backside.jpg)
+  ![Front view](images/backside2.jpg)
 
 ## Used parts:
 - waveshare 13353
