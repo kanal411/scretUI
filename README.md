@@ -42,5 +42,3 @@ The phone case is printed in TPU 90A with 15% infill, while the battery enclosur
 
 ## AI usage:
 AI was used for writing some auxiliary functions, assisting with Kotlin development and BLE integration, and supporting debugging.
-
-[![Demo video](images/thumbnail.jpg)](https://youtu.be/TUiXD2V9Ydc)
