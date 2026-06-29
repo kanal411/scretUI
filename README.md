@@ -31,7 +31,7 @@ The phone connects to the ESP32 via BLE. The mobile app fetches weather data (Op
 
 The ESP32 updates the e-ink display and then enters deep sleep for the requested period. The cycle then repeats.
 
-<img src="app.jpg" width="540">
+![Inside](images/app.jpg)
 
 ## How to print:
 The phone case is printed in TPU 90A with 15% infill, while the battery enclosure is printed in PETG.
