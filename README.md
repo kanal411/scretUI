@@ -33,8 +33,10 @@ The ESP32 updates the e-ink display and then enters deep sleep for the requested
 
 ![Inside](images/app.jpg)
 
-## How to print:
+## How to make:
 The phone case is printed in TPU 90A with 15% infill, while the battery enclosure is printed in PETG.
+
+![Diagram](images/diagram.png)
 
 ![Back view](images/front.jpg)
 
