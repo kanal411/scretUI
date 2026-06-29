@@ -19,6 +19,7 @@ The screen displays:
 - 220k ohm resistor
 - 1500mAh 3.7V Li-Pol battery (50x34x8mm)
 - 9x8x8mm button
+- 92x70x1.5mm polycarbonate sheet
   
 ![Inside](images/inside.jpg)
 
@@ -37,6 +38,7 @@ The ESP32 updates the e-ink display and then enters deep sleep for the requested
 The phone case is printed in TPU 90A with 15% infill, while the battery enclosure is printed in PETG. Install Arduino IDE, then go to Preferences and add https://espressif.github.io/arduino-esp32/package_esp32_index.json in “Additional Boards Manager URLs”, open Boards Manager and install the ESP32 package by Espressif Systems, select the ESP32-S3 board (e.g. ESP32S3 Dev Module) under Tools, set Tools → CPU Frequency to 80MHz, connect the ESP32-S3 board to your computer via USB, choose the correct COM/tty port, then paste the code from esp32Code into the Arduino sketch, after which you can click Upload.
 
 ![Diagram](images/diagram.png)
+![Manual](images/manual.gif)
 
 ![Back view](images/front.jpg)
 
